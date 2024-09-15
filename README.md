@@ -8,7 +8,7 @@ On a donc accès à une page nous demandant un code secret pour accéder à la s
 
 Personnellement je suis allé dans la partie "Eléments" puis j'ai eu accès à ces 3 parties : 
 
-![[Pasted image 20240915173332.png]]
+![image](https://github.com/user-attachments/assets/93b5c78f-d25d-4bb0-8b5b-45f18bec0873)
 
 Ici nous allons nous intéresser à la partie `head`, je clique donc dessus pour avoir plus de détails sur sa composition puis en lisant les métadonnées (`<meta>`) j'en trouve une nommé "Preuve WTF" avec comme content le code à entrer. 
 
