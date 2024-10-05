@@ -12,7 +12,7 @@ Personnellement je suis allé dans la partie "Eléments" puis j'ai eu accès à 
 
 Ici nous allons nous intéresser à la partie `head`, je clique donc dessus pour avoir plus de détails sur sa composition puis en lisant les métadonnées (`<meta>`) j'en trouve une nommé "Preuve WTF" avec comme content le code à entrer. 
 
-**Flag :** `wtf0924`
+**Flag :** `wtf1024`
 
 
 ## Challenge 2:
